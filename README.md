@@ -1,12 +1,12 @@
-#About
+# About
 
 This project was part of a React course I've been taking for the last two months. The goal here was to use the Redux library with side effects.
 
-# Getting Started with Create React App
+### Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+### Available Scripts
 
 In the project directory, you can run:
 
